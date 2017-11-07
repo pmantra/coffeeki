@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import '../css/App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import 'font-awesome/css/font-awesome.min.css'
-import '../css/login.css'
-import '../css/dashboard.css'
+import 'jquery/src/jquery';
+import 'bootstrap/dist/js/bootstrap';
+import 'font-awesome/css/font-awesome.min.css';
+import '../css/login.css';
+import '../css/dashboard.css';
 import { Redirect } from 'react-router-dom';
 
 
