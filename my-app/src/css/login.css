@@ -31,3 +31,10 @@ input[type="password"] {
     border-top-right-radius: 0;
 }
 
+.show-me {
+    visibility: visible;
+}
+
+.hide-me {
+    visibility: hidden;
+}

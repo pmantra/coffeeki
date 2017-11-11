@@ -18,7 +18,10 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "axios": "^0.17.0",
+    "bootstrap": "^3.3.7",
     "jquery": "^1.12.4",
-    "popper.js": "^1.12.6"
+    "popper.js": "^1.12.6",
+    "react-router": "^4.2.0"
   }
 }
